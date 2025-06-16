@@ -1,2 +1,2 @@
 # Assignments
-FUnctions
+Functions
